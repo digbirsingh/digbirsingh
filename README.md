@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Hi, I'm Digbir Singh 👋</h1>
 <p align="center">
-  💻 Engineering Student | Full-Stack Curious <br/>
+  💻 Engineering Student | Creative <br/>
   📍 GGSIPU (B.Tech CSE) | Learning fundamentals, building momentum
 </p>
 
